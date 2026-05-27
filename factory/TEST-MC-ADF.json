@@ -1,0 +1,15 @@
+{
+	"name": "TEST-MC-ADF",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "polandcentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "47fb47d0-d4c3-4b16-a446-2e6480382868",
+		"tenantId": "2d323e4c-4e41-4e45-9713-2bffb7c4c541"
+	}
+}
